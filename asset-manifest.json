@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/afstudiouruguay/static/css/main.9ac0c669.chunk.css",
+    "main.js": "/afstudiouruguay/static/js/main.b5cf6813.chunk.js",
+    "main.js.map": "/afstudiouruguay/static/js/main.b5cf6813.chunk.js.map",
+    "runtime-main.js": "/afstudiouruguay/static/js/runtime-main.1b5defa5.js",
+    "runtime-main.js.map": "/afstudiouruguay/static/js/runtime-main.1b5defa5.js.map",
+    "static/css/2.d45d6843.chunk.css": "/afstudiouruguay/static/css/2.d45d6843.chunk.css",
+    "static/js/2.a60ec74c.chunk.js": "/afstudiouruguay/static/js/2.a60ec74c.chunk.js",
+    "static/js/2.a60ec74c.chunk.js.map": "/afstudiouruguay/static/js/2.a60ec74c.chunk.js.map",
+    "index.html": "/afstudiouruguay/index.html",
+    "static/css/2.d45d6843.chunk.css.map": "/afstudiouruguay/static/css/2.d45d6843.chunk.css.map",
+    "static/css/main.9ac0c669.chunk.css.map": "/afstudiouruguay/static/css/main.9ac0c669.chunk.css.map",
+    "static/js/2.a60ec74c.chunk.js.LICENSE.txt": "/afstudiouruguay/static/js/2.a60ec74c.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/afstudiouruguay/static/media/cuero1.f641af94.png",
+    "static/media/fondobarber.bbb7cc97.jpg": "/afstudiouruguay/static/media/fondobarber.bbb7cc97.jpg",
+    "static/media/icon-facebook.a46e87ca.svg": "/afstudiouruguay/static/media/icon-facebook.a46e87ca.svg",
+    "static/media/icon-instagram.b61edd43.svg": "/afstudiouruguay/static/media/icon-instagram.b61edd43.svg",
+    "static/media/icon-whatsapp.052124f2.svg": "/afstudiouruguay/static/media/icon-whatsapp.052124f2.svg",
+    "static/media/icon_left.85a55d0a.svg": "/afstudiouruguay/static/media/icon_left.85a55d0a.svg",
+    "static/media/icon_right.f525581b.svg": "/afstudiouruguay/static/media/icon_right.f525581b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b5defa5.js",
+    "static/css/2.d45d6843.chunk.css",
+    "static/js/2.a60ec74c.chunk.js",
+    "static/css/main.9ac0c669.chunk.css",
+    "static/js/main.b5cf6813.chunk.js"
+  ]
+}
