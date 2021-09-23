@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/afstudiouruguay/static/css/main.9ac0c669.chunk.css",
-    "main.js": "/afstudiouruguay/static/js/main.98519680.chunk.js",
-    "main.js.map": "/afstudiouruguay/static/js/main.98519680.chunk.js.map",
+    "main.js": "/afstudiouruguay/static/js/main.1d3a30bd.chunk.js",
+    "main.js.map": "/afstudiouruguay/static/js/main.1d3a30bd.chunk.js.map",
     "runtime-main.js": "/afstudiouruguay/static/js/runtime-main.1b5defa5.js",
     "runtime-main.js.map": "/afstudiouruguay/static/js/runtime-main.1b5defa5.js.map",
     "static/css/2.d45d6843.chunk.css": "/afstudiouruguay/static/css/2.d45d6843.chunk.css",
@@ -25,6 +25,6 @@
     "static/css/2.d45d6843.chunk.css",
     "static/js/2.a60ec74c.chunk.js",
     "static/css/main.9ac0c669.chunk.css",
-    "static/js/main.98519680.chunk.js"
+    "static/js/main.1d3a30bd.chunk.js"
   ]
 }
